@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/global-uhc-insights-1985-2024" target="_blank">
+    <img src="Universal Health Coverage Insights (1985–2024).png" alt="Universal Health Coverage" width="500">
+  </a>
+</p>
+
+
 [project.md](https://github.com/user-attachments/files/25002943/project.md)
 # Global Universal Health Coverage Indicators (1985-2024)
 
